@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
  */
 @RestController
 public class ArticulateRestController {
-
+//enviromentalhelper
 	private final EnvironmentHelper environmentHelper;
 
 	public ArticulateRestController(EnvironmentHelper environmentHelper) {
